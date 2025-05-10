@@ -1,0 +1,12 @@
+/client/node_modules
+/server/node_modules
+/server/.env
+
+/node_modules# Ignore Node.js dependencies
+/node_modules
+/client/node_modules
+/server/node_modules
+
+# Ignore environment variables
+/server/.env
+.env
