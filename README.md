@@ -1,4 +1,4 @@
 
 PORT=5000
 MONGODB_URI=your_mongodb_connection_uri_here
-TOKEN=your_jwt_or_secret_token_here
+JWT_SECRET=your_jwt_or_secret_token_here
